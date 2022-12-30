@@ -5,3 +5,5 @@ Please enjoy my new first ever attempt at a full html website as my as I enjoyed
 
 Emphasis was placed on git workflow and doing everything from the Command Line Interface and through Visual Studio Code.
 
+EDIT
+Edited with CSS intergration as per The Odin Project CSS Foundational curriculum
